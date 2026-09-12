@@ -1,0 +1,13 @@
+ID: P001
+Name: Rahul Sharma
+Age: 45
+Gender: Male
+Phone: 9876543210
+Blood Group: B+
+Disease: Diabetes
+Diagnosis: Type 2 Diabetes
+Symptoms: frequent urination, thirst, fatigue, dry skin
+Doctor: Dr. Ramesh Kumar
+Caretaker: Suresh Sharma
+Medicine: Metformin
+Bill: 8500

@@ -1,0 +1,13 @@
+ID: P007
+Name: Kiran Verma
+Age: 35
+Gender: Male
+Phone: 9876543216
+Blood Group: B-
+Disease: Gastritis
+Diagnosis: Acute Gastritis
+Symptoms: stomach pain, acidity, nausea, indigestion
+Doctor: Dr. Ramesh Kumar
+Caretaker: Sunil Verma
+Medicine: Omeprazole
+Bill: 5800

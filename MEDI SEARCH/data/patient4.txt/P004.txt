@@ -1,0 +1,13 @@
+ID: P004
+Name: Sneha Patel
+Age: 31
+Gender: Female
+Phone: 9876543213
+Blood Group: AB+
+Disease: Migraine
+Diagnosis: Chronic Migraine
+Symptoms: severe headache, nausea, sensitivity to light, dizziness
+Doctor: Dr. Anjali Rao
+Caretaker: Riya Patel
+Medicine: Sumatriptan
+Bill: 7500

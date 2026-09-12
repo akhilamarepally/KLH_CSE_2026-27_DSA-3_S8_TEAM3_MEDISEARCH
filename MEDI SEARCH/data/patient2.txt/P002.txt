@@ -1,0 +1,13 @@
+ID: P002
+Name: Priya Reddy
+Age: 28
+Gender: Female
+Phone: 9876543211
+Blood Group: O+
+Disease: Asthma
+Diagnosis: Bronchial Asthma
+Symptoms: shortness of breath, cough, chest tightness, wheezing
+Doctor: Dr. Anjali Rao
+Caretaker: Kavitha Reddy
+Medicine: Inhaler
+Bill: 6200

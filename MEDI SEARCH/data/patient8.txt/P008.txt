@@ -1,0 +1,13 @@
+ID: P008
+Name: Meera Nair
+Age: 26
+Gender: Female
+Phone: 9876543217
+Blood Group: O+
+Disease: Anemia
+Diagnosis: Iron Deficiency Anemia
+Symptoms: fatigue, weakness, pale skin, dizziness
+Doctor: Dr. Kavya
+Caretaker: Anil Nair
+Medicine: Iron Supplements
+Bill: 7000

@@ -1,0 +1,13 @@
+ID: P003
+Name: Arjun Kumar
+Age: 52
+Gender: Male
+Phone: 9876543212
+Blood Group: A+
+Disease: Hypertension
+Diagnosis: High Blood Pressure
+Symptoms: headache, dizziness, fatigue, chest discomfort
+Doctor: Dr. Ravi Teja
+Caretaker: Manoj Kumar
+Medicine: Amlodipine
+Bill: 9000

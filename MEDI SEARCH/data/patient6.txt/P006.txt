@@ -1,0 +1,13 @@
+ID: P006
+Name: Ananya Rao
+Age: 22
+Gender: Female
+Phone: 9876543215
+Blood Group: A+
+Disease: Allergy
+Diagnosis: Skin Allergy
+Symptoms: skin rash, itching, dry skin, redness
+Doctor: Dr. Kavya
+Caretaker: Lakshmi Rao
+Medicine: Cetirizine
+Bill: 4500

@@ -1,0 +1,13 @@
+ID: P005
+Name: Vikram Singh
+Age: 60
+Gender: Male
+Phone: 9876543214
+Blood Group: O-
+Disease: Arthritis
+Diagnosis: Rheumatoid Arthritis
+Symptoms: joint pain, swelling, stiffness, difficulty walking
+Doctor: Dr. Prakash
+Caretaker: Amit Singh
+Medicine: Ibuprofen
+Bill: 11000
